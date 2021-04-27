@@ -12,3 +12,5 @@ https://www.forbes.com/sites/davidmichels/2019/09/27/going-pi-shaped-how-to-prep
 
 企業の視点から見ると、会社の発展の中核は「コストの削減と効率の向上」にあり、その過程で、人材能力モデルを絶えず変更している。
 自分の立場を深めるだけでなく、水平方向に全体論的な考え方を持っている必要がある。同時に、会社に価値をもたらすために「自分やったこと」を統合して広める必要もある。
+
+https://www.solutionsiq.com/learning/blog-post/the-life-of-pi-moving-beyond-t-shaped-skills-for-agile-teams/
